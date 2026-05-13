@@ -1,5 +1,5 @@
 # Food-and-Beverage-Sales-Analysis-Dashboard
-<img width="1914" height="1009" alt="Food and Beverage Sales Analysis Dashboard" src="https://github.com/armanhosenBTechEnthusiast/Food-and-Beverage-Sales-Analysis-Power-BI-Dashboard/raw/main/screenshots/dashboard_overview.png" />
+<img width="1886" height="768" alt="Screenshot 2026-05-13 152209" src="https://github.com/user-attachments/assets/760d1905-1393-440f-bad0-c59406e68948" />
 
 # 🍔 Food and Beverage Sales Analysis Dashboard
 
@@ -44,10 +44,9 @@ This project analyzes **Food and Beverage** sales performance using **Power BI**
 ## 🚀 Project Files
 
 ### 🔹 Excel Dataset
-[Download Food & Beverage Sales Dataset](https://github.com/armanhosenBTechEnthusiast/Food-and-Beverage-Sales-Analysis-Power-BI-Dashboard/raw/main/data/food_beverage_sales.xlsx)
+
 
 ### 🔹 Power BI Dashboard
-[Download Power BI Report (.pbix)](https://github.com/armanhosenBTechEnthusiast/Food-and-Beverage-Sales-Analysis-Power-BI-Dashboard/raw/main/Food_Beverage_Sales_Dashboard.pbix)
 
 ---
 
@@ -68,5 +67,7 @@ This project analyzes **Food and Beverage** sales performance using **Power BI**
 
 ## 👨‍💻 Author
 **Arman Hosen**
+
 BBA in Finance and Banking / Data Enthusiast
+
 Jashore University of Science and Technology
