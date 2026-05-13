@@ -47,6 +47,7 @@ This project analyzes **Food and Beverage** sales performance using **Power BI**
 
 
 ### 🔹 Power BI Dashboard
+https://github.com/armanhosenBTechEnthusiast/Food-and-Beverage-Sales-Analysis-Dashboard/blob/main/Food%20and%20Beverage%20Sales%20Dashboard.pbix
 
 ---
 
